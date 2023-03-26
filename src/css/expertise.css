@@ -1,0 +1,25 @@
+.our-expertise{
+    color: var(--button-bg);
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 1.14;
+    margin-bottom: 10px;
+}
+
+.title-expertize{
+    color: var(--text);
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 1.25;
+    margin-bottom: 10px;
+
+}
+
+
+.p-text-expertise{
+    color: var(--text);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.14;
+    margin-bottom: 40px;
+}
