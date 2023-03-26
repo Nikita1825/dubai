@@ -31,8 +31,13 @@
     background-size: cover;
     background-repeat: no-repeat;
     max-width: 320px;
-
+    margin-bottom: 40px;
 }
+
+.box-expertise{
+    margin-bottom: 40px;
+}
+
 
 .box-expertise{
     border: 1px solid var(--button-bg);
@@ -41,4 +46,12 @@
 
 .box-p{
     padding: 22px 25px;
-}
+    color: var(--main-text);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.14;
+    }
+
+    .box-span{
+        color: var(--button-bg);
+    }
