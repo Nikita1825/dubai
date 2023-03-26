@@ -7,10 +7,25 @@
 <path fill="none" stroke="#fcd54c" style="stroke: var(--color1, #fcd54c)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.2549" d="M19.451 0.627h-18.824v30.745h18.824"></path>
 </symbol>
 
-<symbol id="burger-icon" viewBox="0 0 32 32">
-<path d="M6.4 11.733v-2.133h19.2v2.133h-19.2zM6.4 17.067h19.2v-2.133h-19.2v2.133zM6.4 22.4h19.2v-2.133h-19.2v2.133z"></path>
+
+<symbol id="strelochka-dlya-nikitu" viewBox="0 0 20 32">
+<path fill="none" stroke="#fff" style="stroke: var(--color1, #fff)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="2" d="M18 16.164l-16-14.166M2 30.266l16-14.166"></path>
 </symbol>
 
+
+<symbol id="X-Krestik-dlya-nikinu" viewBox="0 0 34 32">
+<path fill="#fff" style="fill: var(--color1, #fff)" d="M28.757 5.067c-0.289-0.289-0.689-0.468-1.131-0.468s-0.841 0.179-1.131 0.468l-21.12 21.12c-0.266 0.285-0.429 0.669-0.429 1.091 0 0.884 0.716 1.6 1.6 1.6 0.422 0 0.806-0.163 1.092-0.43l-0.001 0.001 21.12-21.12c0.289-0.289 0.468-0.689 0.468-1.131s-0.179-0.841-0.468-1.131l0 0zM21.216-2.475c-0.29-0.29-0.69-0.469-1.132-0.469s-0.842 0.179-1.132 0.469l-21.12 21.12c-0.278 0.287-0.449 0.679-0.449 1.111 0 0.884 0.716 1.6 1.6 1.6 0.432 0 0.825-0.171 1.113-0.45l-0 0 21.12-21.12c0.289-0.289 0.468-0.689 0.468-1.131s-0.179-0.841-0.468-1.131l0 0zM36.301 12.608c-0.29-0.29-0.69-0.469-1.132-0.469s-0.842 0.179-1.132 0.469l-21.12 21.12c-0.301 0.291-0.488 0.699-0.488 1.15 0 0.884 0.716 1.6 1.6 1.6 0.452 0 0.86-0.187 1.151-0.489l0-0 21.12-21.118c0.289-0.289 0.468-0.689 0.468-1.131s-0.179-0.841-0.468-1.131l0 0z"></path>
+<path fill="#fff" style="fill: var(--color1, #fff)" d="M5.376 5.067c0.289-0.289 0.689-0.468 1.131-0.468s0.841 0.179 1.131 0.468l21.12 21.12c0.266 0.285 0.429 0.669 0.429 1.091 0 0.884-0.716 1.6-1.6 1.6-0.422 0-0.806-0.163-1.092-0.43l0.001 0.001-21.12-21.12c-0.289-0.289-0.468-0.689-0.468-1.131s0.179-0.841 0.468-1.131l-0 0zM12.917-2.475c0.29-0.29 0.69-0.469 1.132-0.469s0.842 0.179 1.132 0.469l21.12 21.12c0.301 0.291 0.488 0.699 0.488 1.15 0 0.884-0.716 1.6-1.6 1.6-0.452 0-0.86-0.187-1.151-0.489l-0-0-21.12-21.12c-0.289-0.289-0.468-0.689-0.468-1.131s0.179-0.841 0.468-1.131l-0 0zM-2.167 12.608c0.29-0.29 0.69-0.469 1.132-0.469s0.842 0.179 1.132 0.469l21.12 21.12c0.301 0.291 0.488 0.699 0.488 1.15 0 0.884-0.716 1.6-1.6 1.6-0.452 0-0.86-0.187-1.151-0.489l-0-0-21.12-21.118c-0.289-0.289-0.468-0.689-0.468-1.131s0.179-0.841 0.468-1.131l-0 0z"></path>
+</symbol>
+
+<symbol id="Srtelochka-vverh-dlya-nikitu" viewBox="0 0 64 32">
+<path fill="#fff" style="fill: var(--color1, #fff)" d="M31.543 29.888h29.088l-29.088-29.093-29.097 29.093h29.097z"></path>
+</symbol>
+
+
+<symbol id="burger-dlya-nikitu" viewBox="0 0 32 32">
+<path d="M6.4 11.733v-2.133h19.2v2.133h-19.2zM6.4 17.067h19.2v-2.133h-19.2v2.133zM6.4 22.4h19.2v-2.133h-19.2v2.133z"></path>
+</symbol>
 
 
 <symbol id="icon-instagram-2-2-1" viewBox="0 0 32 32">
@@ -31,7 +46,17 @@
 </symbol>
 
 
-<symbol id="strelochka-dlya-nikitu" viewBox="0 0 20 32">
-<path fill="none" stroke="#fff" style="stroke: var(--color1, #fff)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="2" d="M18 16.164l-16-14.166M2 30.266l16-14.166"></path>
+<symbol id="yellow-2lapki" viewBox="0 0 43 32">
+<path fill="#fcd54c" style="fill: var(--color1, #fcd54c)" d="M10.24 0.606c-5.154 0-8.792 3.234-8.792 8.488 0 5.356 3.941 7.781 7.377 7.781 1.415 0 2.324-0.404 2.931-1.011l0.404 0.303c-1.415 4.648-5.659 8.387-11.52 10.611l6.366 4.851c8.691-3.941 12.935-11.318 12.935-19.2 0-6.669-3.335-11.823-9.701-11.823zM32.674 0.606c-5.154 0-8.792 3.234-8.792 8.488 0 5.356 3.941 7.781 7.377 7.781 1.415 0 2.324-0.404 2.931-1.011l0.404 0.303c-1.415 4.648-5.659 8.387-11.52 10.611l6.366 4.851c8.691-3.941 12.935-11.318 12.935-19.2 0-6.669-3.335-11.823-9.701-11.823z"></path>
 </symbol>
+
+
+<symbol id="yellow-strelka-vniz" viewBox="0 0 48 32">
+<path fill="none" stroke="#fcd54c" style="stroke: var(--color1, #fcd54c)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="2.2857" d="M23.595 28.974l22.914-25.897M0.738 3.081l22.914 25.895"></path>
+</symbol>
+
+<symbol id="yellow-strelks-vbok" viewBox="0 0 19 32">
+<path fill="none" stroke="#fcd54c" style="stroke: var(--color1, #fcd54c)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.4545" d="M17.455 16.036l-16.479-14.58M0.975 30.582l16.48-14.58"></path>
+</symbol>
+
 </svg>
