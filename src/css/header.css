@@ -86,8 +86,38 @@ font-size: 14px;
 line-height: 17px;
 text-transform: uppercase;
 color: var(--main-text);
+position: relative;
 }
 
+
+.header-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  display: none;
+}
+.nav-link:hover .header-menu{
+  display: block;
+}
+.head-category {
+  width: 240px;
+  padding: 12px;
+  border: 1px solid #979797;
+  background-color: var(--background)
+}
+.head-category:hover {
+  background-color: var(--button-bg) ;
+}
+.link-kategory {
+  font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+color: var(--main-text);
+}
+
+.link-kategory:hover {
+  color: var(--button-text);
+}
 
 /* ================================================================
 */
