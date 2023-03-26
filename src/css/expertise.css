@@ -22,4 +22,23 @@
     font-size: 14px;
     line-height: 1.14;
     margin-bottom: 40px;
+    width: 288px;
+    
+}
+
+
+.video-class{
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 320px;
+
+}
+
+.box-expertise{
+    border: 1px solid var(--button-bg);
+
+}
+
+.box-p{
+    padding: 22px 25px;
 }
