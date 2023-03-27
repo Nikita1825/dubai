@@ -83,9 +83,22 @@ line-height: 24px;
 letter-spacing: 0.2em;
 color: var(--main-text);
 }
+.hero-icons {
+  position: relative;
+    left: 685px;
+    bottom: 470px;
+}
 
 
 /* ============================================================================== */
+@media screen and (max-width:768px){
+  .hero-icons {
+    display: none;
+  }
+  
+}
+
+
 @media screen and (min-width: 768px){
     .hero {
         background-image: url(../img/hero-tablet-slider1.jpg);
@@ -102,6 +115,36 @@ color: var(--main-text);
     background-size: cover;
     
   }
+}
+.hero-svg {
+  width: 74px;
+  height: 229px;
+  padding-top: 39px;
+}
+.hero-h {
+  font-weight: 700;
+font-size: 50px;
+line-height: 64px;
+width: 421px;
+left: 25px;
+bottom: 195px;
+}
+.hero-text {
+  left: 25px;
+  bottom: 200px;
+}
+.hero-text-t {
+  font-size: 16px;
+line-height: 19px;
+bottom: 190px;
+left: 25px;
+}
+.hero-str {
+ bottom: 209px;
+    left: 187px;
+}
+.hero-list {
+  bottom: 125px;
 }
     
 }
@@ -124,6 +167,64 @@ color: var(--main-text);
     background-size: cover;
     
   }
+}
+.hero-svg {
+  width: 124px;
+  height: 383px;
+  padding-top: 278px;
+  padding-left: 350px;
+}
+.hero-h {
+  font-weight: 700;
+font-size: 96px;
+line-height: 100px;
+width: 714px;
+left: 380px;
+bottom: 330px;
+}
+.hero-text {
+  font-size: 16px;
+line-height: 19px;
+  left: 380px;
+    bottom: 350px;
+}
+.hero-text-t {
+font-size: 20px;
+line-height: 23px;
+bottom: 300px;
+left: 380px;
+}
+.hero-str {
+  width: 11px;
+  height: 20px;
+  display: block;
+bottom: 320px;
+    left: 585px;
+}
+.hero-p {
+  font-size: 20px;
+line-height: 24px;
+
+
+letter-spacing: 0.2em;
+}
+.hero-list {
+  bottom: 100px;
+    gap: 20px;
+    left: 450px;
+}
+.hero-icons {
+  position: relative;
+    left: 1300px;
+    bottom: 920px;
+}
+.hero-svg-icons {
+  display: block;
+  width: 20px;
+  height: 20px;
+}
+.hero-icn {
+  margin-bottom: 20px;
 }
     
 
