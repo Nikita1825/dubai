@@ -41,7 +41,8 @@
 
 .box-expertise{
     border: 1px solid var(--button-bg);
-
+    width: 288px;
+    height: 227px;
 }
 
 .box-p{
@@ -54,4 +55,32 @@
 
     .box-span{
         color: var(--button-bg);
+    }
+
+    .img-expertise-one{
+        margin-bottom: 20px;
+        width: 288px;
+        height: 194px;
+    }
+
+    .p-text-expertise-one{
+        color: var(--text);
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 160%;
+        width: 288px;
+        margin-bottom: 20px;
+    }
+
+    .img-expertise-two{
+         margin-bottom: 20px;
+    }
+
+    .p-text-expertise-two{
+        color: var(--text);
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 160%;
+        width: 288px;
+        height: 462px;
     }
