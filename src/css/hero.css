@@ -88,11 +88,47 @@ color: var(--main-text);
     left: 685px;
     bottom: 470px;
 }
+.hero-lorem {
+  display: flex;
+  gap: 35px;
+  position: relative;
+  bottom: 295px;
+  left: 160px;
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: var(--background);
+}
+.lorem-li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.hero-title-lorem {
+  font-weight: 700;
+font-size: 40px;
+line-height: 50px;
+align-items: center;
+
+color: var(--main-text);
+}
+.hero-p-lorem {
+  font-family: 'Work Sans';
+width: 87px;
+font-weight: 600;
+font-size: 12px;
+line-height: 14px;
+
+color: var(--main-text);
+}
 
 
 /* ============================================================================== */
 @media screen and (max-width:768px){
   .hero-icons {
+    display: none;
+  }
+  .hero-lorem {
     display: none;
   }
   
@@ -227,5 +263,25 @@ letter-spacing: 0.2em;
   margin-bottom: 20px;
 }
     
+.hero-title-lorem {
+  font-size: 45px;
+line-height: 24px;
+}
+.hero-p-lorem {
+  font-size: 14px;
+line-height: 24px;
+width: 116px;
+}
+.lorem-li {
 
+
+  gap: 25px;
+}
+.hero-lorem {
+  padding-top: 60px;
+  padding-bottom: 42px;
+  padding-left: 45px;
+  left: 650px;
+  bottom: 400px;
+}
 }
