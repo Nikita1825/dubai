@@ -108,6 +108,9 @@ position: relative;
 .head-category:hover {
   background-color: var(--button-bg) ;
 }
+.head-category:hover .link-kategory{
+  color: var(--button-text);
+}
 .link-kategory {
   font-weight: 600;
 font-size: 14px;
@@ -115,9 +118,8 @@ line-height: 17px;
 color: var(--main-text);
 }
 
-.link-kategory:hover {
-  color: var(--button-text);
-}
+
+
 
 /* ================================================================
 */
@@ -288,7 +290,7 @@ margin-bottom: 20px;
     padding: 10px 12px;
     margin-right: auto;
     margin-left: auto;
-    margin-top: 39px;
+   
     justify-content: center;
     display: flex;
     text-align: center;
@@ -310,5 +312,34 @@ margin-top: 38px;
       justify-content: center;
       margin-top: 38px;
     }
+
+    /* =======================================animation============================================== */
+    /* =======================================animation============================================== */
+    /* =======================================animation============================================== */
+    /* =======================================animation============================================== */
+    .head-category:hover {
+      transform: scaleX(1.1);
+      transition: var(--main-transition);
+    }
+    .nav-link:hover {
+      transform: scaleX(1.2);
+      transition: var(--main-transition);
+      color: var(--button-bg);
+    }
+    .head-btn:hover {
+      transform: scaleX(1.1);
+      
+      transition: var(--main-transition);
+    }
+    .link-head:hover {
+      transform: translateY(-30%);
+      color: var(--button-bg);
+      transition: var(--main-transition);
+    }
+.tel:hover {
+  transform: scaleX(1.1);
+      
+      transition: var(--main-transition);
+}
     
     
