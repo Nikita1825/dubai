@@ -1,0 +1,143 @@
+.project {
+padding-top: 42px;
+padding-bottom: 111px;
+}
+.prj-title {
+font-weight: 700;
+font-size: 24px;
+line-height: 30px;
+color: var(--main-text);
+margin-bottom: 20px;
+
+}
+.prj-list {
+    display: flex;
+    gap: 29px;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.prj-link {
+font-family: 'Work Sans';
+font-weight: 600;
+font-size: 12px;
+line-height: 14px;
+color: var(--main-text);
+}
+.ntn {
+font-style: italic;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+display: block;
+width: 99px;
+height: 10px;
+
+
+color: #929292;
+}
+.prj-photo {
+        flex-wrap: wrap;
+    display: flex;
+    column-gap: 7px;
+    
+}
+.prj-p {
+    position: relative;
+    bottom: 32px;
+    left: 12px;
+    font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+
+color: var(--main-text);
+}
+
+/* ================================================================== */
+/* ================================================================== *//* ================================================================== *
+/* ================================================================== */
+@media screen and (max-width:768px){
+    .prj-photo-tablet {
+        display: none;
+    }
+}
+@media screen and (max-width:1400px){
+    .prj-photo-desk {
+        display: none;
+    }
+}
+
+
+@media screen  and (min-width: 768px){
+    .prj-photo {
+        display: none;
+    }
+    .project {
+padding-top: 100px;
+padding-bottom: 115px;
+}
+.prj-tabl {
+    display: flex;
+    margin-bottom: 25px;
+    align-items: center;
+}
+.prj-title {
+    font-size: 30px;
+    line-height: 37px;
+    line-height: 37px;
+    margin-bottom: 0;
+    margin-right: auto;
+}
+.prj-photo-tablet {
+    display: flex;
+    gap: 10px;
+}
+.prj-list {
+    margin-bottom: 0;
+}
+}
+
+
+
+
+@media screen and (min-width: 1400px){
+    .prj-photo-tablet {
+        display: none;
+    }
+       .project {
+padding-top: 124px;
+padding-bottom: 181px;
+}
+.prj-title {
+    font-size: 48px;
+line-height: 69px;
+}
+.prj-link {
+  font-size: 16px;
+line-height: 21px;
+}
+.ntn {
+    width: 135px;
+    height: 100%;
+}
+.prj-tabl {
+   padding-left: 270px;
+    padding-right: 110px;
+        align-items: center;
+        margin-bottom: 78px;
+}
+.prj-photo-desk {
+    display: flex;
+    gap: 29px;
+}
+.prj-p {
+    font-size: 30px;
+line-height: 40px;
+bottom: 65px;
+    left: 40px;
+}
+.prj-list {
+    margin-bottom: 0;
+}
+
+}
+

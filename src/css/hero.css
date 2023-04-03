@@ -7,6 +7,9 @@
     height: 322px;
     max-width: 288px;
 }
+.hero .container {
+  padding-left: 23px;
+}
 @media (min-device-pixel-ratio: 2),
   (-webkit-min-device-pixel-ratio: 2),
   (min-resolution: 192dpi),
@@ -317,6 +320,15 @@ width: 116px;
     animation-name: Changetitel ;
     animation-duration: 3s;
    }
+   .hero-svg-icons {
+    fill: var(--text);
+   }
+
+ .hero-svg-icons:hover {
+    fill: var(--button-bg);
+   }
+   
+
 
 
 .hero-icn:hover {
