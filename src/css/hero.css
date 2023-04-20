@@ -324,7 +324,7 @@ width: 116px;
     fill: var(--text);
    }
 
- .hero-svg-icons:hover {
+ .item-svg:hover .hero-svg-icons {
     fill: var(--button-bg);
    }
    
