@@ -341,5 +341,10 @@ margin-top: 38px;
       
       transition: var(--main-transition);
 }
+.nav-link-burg{
+      border: 1px solid var(--button-bg);
+    border-radius: 10px;
+    padding-left: 10px;
+}
     
     
